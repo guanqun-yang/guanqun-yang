@@ -1,13 +1,11 @@
 ### Hi there 👋 I'm Guanqun (David
 
 <!-- <a href="https://www.linkedin.com/in/guanqun-yang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-
-
-
 [<img align=left alt="https://www.linkedin.com/in/guanqun-yang/" title="LinkedIn" width="110px"  height="22px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guanqun-yang/)
 [<img align="left" alt="https://davidyang.info/" title="davidyang.info/" width="22px"  height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://davidyang.info/)
 [<img align="left" alt="guanqun_yang | Twitter" title="guanqun_yang" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/guanqun_yang)
 [<img align="left" alt="guanqun.yang@outlook.com | E-mail" title="guanqun.yang@outlook.com" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:guanqun.yang@outlook.com)
+
 
 ### About Me
 
